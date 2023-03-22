@@ -1,0 +1,223 @@
+body {
+    margin: 0;
+    background: url(image/unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+  }
+  nav {
+    background-color: #fff;
+  }
+  .header {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .brand-list ul {
+    display: flex;
+  }
+  .brand-list ul li {
+    list-style: none;
+    margin-left: 20px;
+  }
+  .brand-list ul li a {
+    text-decoration: none;
+  }
+  .brand-list ul li a:hover {
+    background-color: grey;
+    color: #fff;
+    padding: 0.5em;
+    border-radius: 15px;
+  }
+  .first{
+    margin: 0 auto;
+    margin-top: 70px;
+    width: 80%;
+    
+  }
+  .intro{
+    float: left;
+    font-size: 60px;
+    font-weight: bold;
+
+  }
+  .coma{
+    color: lightgrey;
+  }
+  .intro-one{
+    color: blue
+  }
+  .two{
+    position: relative;
+
+  }
+  
+  .two-one{
+    width: 30%;
+    margin-left: 170px;
+    padding-left: 30px;
+    
+    
+  }
+  .three{
+    display:inline-block
+
+  }
+  
+  .three-one{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+  }
+  .three-one a{
+    text-decoration: none;
+    color: white;
+  }
+  .fifth{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border: 1px solid black;
+    margin-left: 10px;
+  }
+  .fifth a{
+    text-decoration: none;
+  }
+  .about{
+    background-color: black;
+    padding: 10px;
+    margin-top: 70px;
+
+  }
+  .about-one{
+    color: white;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 25px;
+  }
+  .about-two{
+    font-weight: Bold;
+    font-size: 30px;
+  }
+  .about-three{
+    padding: 40px;
+  }
+  .about-four{
+    font-size: 30px;
+    font-weight: bold;
+    color: yellow;
+  }
+  .about-five{
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .section-main{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center ; */
+  }
+  .section-one{
+    height: 250px;
+    width: 250px;
+    background-color: lightgreen;
+    padding: 20px;
+    color: black;
+    
+  }
+  .section-image1{
+    width: 20%;
+    margin-bottom: 10px;
+  }
+  .section-two{
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+    padding: 20px;
+    color: black;
+    /* position: absolute;
+    left: 300px; */
+  }
+  .section-three{
+    height: 250px;
+    width: 250px;
+    background-color: blueviolet;
+    padding: 20px;
+    color: black;
+    /* position: absolute;
+    left: 600px; */
+
+  }
+  .client{
+    background-color: white;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    margin: 0 auto;
+  }
+
+  .client-one{
+    width: 50%;
+  }
+  .project{
+    padding: 20px;
+
+  }
+  .project-heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .project-elements{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 10px;
+  }
+  .project-one{
+    margin-right: 20px;
+  }
+  .project-more{
+    text-align: center;
+    text-decoration: none;
+  }
+  .project-more a{
+    text-decoration: none;
+  }
+  .project-more a:hover{
+    color: blue
+  }
+  .testimony{
+    padding: 40px;
+    margin: 50px;
+    /* border: 1px solid black; */
+  }
+  .testimony-text{
+    height: 200px;
+    width: 500px;
+   margin: 0 auto;
+   padding: 30px;
+   border: 1px solid black;
+   margin-top: 20px;
+  }
+
+  .write{
+    text-align: center;
+    font-size: 15px;
+  }
+  .write-input{
+    justify-content: center;
+  }
+  .writeline{
+    text-align: center;
+    padding: 20px;
+
+  }
+  .new{
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
